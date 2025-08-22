@@ -1,0 +1,43 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-cloud-pbx.png"
+    pretitle: "Unified Communication as a Service"
+    title: "Smart PBX"
+    text: "Smart PBX is a cloud-based telephony solution that is reliable, user-friendly, and cost-effective for businesses of all sizes. Offering a comprehensive range of features and functionalities typical of modern phone systems, Smart PBX enhances productivity and reduces operational expenses. It's a savvy system crafted to address the evolving demands of businesses"
+
+  #  buttons: 
+  #    - label: "See live"
+  #      url: "#"
+
+  #    - label: "Read more"
+  #      url: "#"
+
+  - image: "images/portfolio-microsoftteams.png"
+    pretitle: "Session Border Controller as a Service"
+    title: "Microsoft Teams Telephony"
+    text: "A high-performance cloud-based SIP application server to enable business phones services for Microsoft Teams."
+
+   # buttons: 
+    #  - label: "See live"
+    #    url: "#"
+
+    #  - label: "Read more"
+    #    url: "#"
+
+  - image: "images/portfolio-SIP-trunking.png"
+    pretitle: "VoIP Phone Line Service"
+    title: "Two-way SIP Connections"
+    text: "We offer high-performance, cost-effective SIP connections tailored for SIP-compatible (BYO) devices. These connections are designed to handle unlimited sessions and support a range of features including phone numbers, fax service, voicemail, call recording, and more."
+
+   # buttons: 
+    #  - label: "See live"
+    #    url: "#"
+
+    #  - label: "Read more"
+    #    url: "#"
+  - image: "images/portfolio-Fax-email.png"
+    pretitle: "DigiFax"
+    title: "FAX over Email"
+    text: "DigiFax provides online fax services through email, making it easy to send and receive faxes directly via email. It supports various file formats, such as PDF, TIFF, DOC, and PNG. DigiFax operates as a web-based platform, allowing users to send documents to any fax machine and receive replies online. Fax gateways like DigiFax are especially advantageous for transmitting documents via fax without requiring a physical fax machine."

@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Your **Communication Nexus**"
+  text: "Modernise your communication system to support hybrid working, increase productivity, and reduce operational costs."
+
+  buttonPrimary:
+    label: "Book demo"
+    url: "https://calendly.com/bespokelink/30min"
+
+  buttonSecondary:
+    label: "Let's talk 03 9998 0490"
+    url: "tel:+61399980490"
+

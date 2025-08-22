@@ -1,0 +1,25 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "We work with pre-qualified vendors, afiliates and hosting parterns for quality service "
+  items:
+   # - "images/brands-samsumg.png"
+   # - "images/brands-google.png"
+   # - "images/brands-adobe.png"
+   # - "images/brands-spotify.png"
+   # - "images/brands-dropbox.png"
+    - "images/brands-yealink.png"
+    - "images/brands-3cx.png"
+    - "images/brands-Poly.png"
+    - "images/brands-cisco.png"
+    - "images/brands-grandstream.png"
+    - "images/brands-ribbon.png"
+    - "images/brands-yeastar.png"
+    - "images/brands-aws.png"
+    - "images/brands-azure.png"
+    - "images/brands-telstra.png"
+    - "images/brands-optus.png"
+    - "images/brands-googlevoice.png"
+    - "images/brands-Teams.png"
+    - "images/brands-Zoom.png"

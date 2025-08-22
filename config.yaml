@@ -1,0 +1,100 @@
+baseURL: "https://bespokelink.com"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+# title: "bespoke link"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Cloud PBX | Microsoft Teams Telephony | Cloud Communication"
+  description: "Our mission is to optimize connections & untangle phone complexities!"
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "Melbourne, Australia"
+    - "New York, USA"
+  #  - "Dubai, UAE"
+
+  contact:
+    - "info@bespokelink.com"
+    - "AUS +613 9998 0490"
+    - "USA +1 929 590 5907"
+  #  - "UAE +971 8000 321 342"
+
+  copyright: "© 2024 Bespokelink Limited, LLC. All rights reserved."
+
+menus:
+  main:
+    - name: ""
+      url: "/#hero"
+      weight: 1
+
+  #  - name: "Services"
+  #    url: "/services"
+  #    weight: 2
+
+  #  - name: "How it works"
+  #    url: "/backend"
+  #    weight: 3
+
+  #  - name: "About"
+  #    url: "/about-us"
+  #    weight: 4
+
+#    - name: "Blog"
+#      url: "/blog"
+#      weight: 5
+
+  buttons:
+    - name: "Book a call"
+      url: "https://calendly.com/bespokelink/30min"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Services"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+#    - name: "Pricing"
+#      url: "/#"
+#      weight: 4
+
+    - name: "Resources"
+      url: "/resources"
+      weight: 5
+
+#    - name: "Blog"
+#      url: "/blog"
+#      weight: 6
+
+
+taxonomies:
+  series: "series"
+  tags: "tags"

@@ -29,17 +29,17 @@ params:
     twitter: "#"
 
   location:
+    - "Dubai, UAE"
     - "Melbourne, Australia"
-    - "New York, USA"
-  #  - "Dubai, UAE"
+    - "New York, USA" 
 
   contact:
     - "info@bespokelink.com"
+    - "UAE +971 8000 321 342"
     - "AUS +613 9998 0490"
     - "USA +1 929 590 5907"
-  #  - "UAE +971 8000 321 342"
 
-  copyright: "© 2024 Bespokelink Limited, LLC. All rights reserved."
+  copyright: "© 2025 Bespokelink Limited, LLC. All rights reserved."
 
 menus:
   main:

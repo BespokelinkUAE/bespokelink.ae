@@ -10,6 +10,6 @@ content:
     url: "https://calendly.com/bespokelink/30min"
 
   buttonSecondary:
-    label: "Let's talk 03 9998 0490"
-    url: "tel:+61399980490"
+    label: "Let's talk"
+    url: "mailto:info@bespokelink.ae"
 

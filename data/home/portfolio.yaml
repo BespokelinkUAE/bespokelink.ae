@@ -2,10 +2,22 @@ enabled: true
 id: "portfolio"
 
 content:
+  - image: "images/portfolio-medium-meeting.png"
+    pretitle: "Teams Room as a Service"
+    title: "Meeting Room Solutions"
+    text: "Supercharge your meeting rooms with Teams Rooms as a Service — all the gear, setup, and support you need, for one simple monthly fee. Walk in, power up, and collaborate without a hitch."
+
+  #  buttons: 
+  #    - label: "See live"
+  #      url: "#"
+
+  #    - label: "Read more"
+  #      url: "#"
+  
   - image: "images/portfolio-cloud-pbx.png"
     pretitle: "Unified Communication as a Service"
     title: "Smart PBX"
-    text: "Smart PBX is a cloud-based telephony solution that is reliable, user-friendly, and cost-effective for businesses of all sizes. Offering a comprehensive range of features and functionalities typical of modern phone systems, Smart PBX enhances productivity and reduces operational expenses. It's a savvy system crafted to address the evolving demands of businesses"
+    text: "Smart PBX puts a powerful cloud phone system at your fingertips — simple, reliable, and built to cut costs while boosting productivity. The smarter way to connect and grow your business."
 
   #  buttons: 
   #    - label: "See live"
@@ -17,7 +29,7 @@ content:
   - image: "images/portfolio-microsoftteams.png"
     pretitle: "Session Border Controller as a Service"
     title: "Microsoft Teams Telephony"
-    text: "A high-performance cloud-based SIP application server to enable business phones services for Microsoft Teams."
+    text: "Power your business calls with a high-performance cloud SIP server — seamlessly connecting Microsoft Teams to enterprise-grade phone services. Reliable, scalable, and built for the modern workplace."
 
    # buttons: 
     #  - label: "See live"
@@ -27,9 +39,9 @@ content:
     #    url: "#"
 
   - image: "images/portfolio-SIP-trunking.png"
-    pretitle: "VoIP Phone Line Service"
-    title: "Two-way SIP Connections"
-    text: "We offer high-performance, cost-effective SIP connections tailored for SIP-compatible (BYO) devices. These connections are designed to handle unlimited sessions and support a range of features including phone numbers, fax service, voicemail, call recording, and more."
+    pretitle: "SIP Trunking"
+    title: "Voice & DID"
+    text: "Get powerful, cost-effective SIP connections for your own devices — unlimited sessions, phone numbers, fax, voicemail, call recording, and more. All the features you need, built to scale with your business."
 
    # buttons: 
     #  - label: "See live"
@@ -37,7 +49,8 @@ content:
 
     #  - label: "Read more"
     #    url: "#"
-  - image: "images/portfolio-Fax-email.png"
-    pretitle: "DigiFax"
-    title: "FAX over Email"
-    text: "DigiFax provides online fax services through email, making it easy to send and receive faxes directly via email. It supports various file formats, such as PDF, TIFF, DOC, and PNG. DigiFax operates as a web-based platform, allowing users to send documents to any fax machine and receive replies online. Fax gateways like DigiFax are especially advantageous for transmitting documents via fax without requiring a physical fax machine."
+
+  #- image: "images/portfolio-medium-meeting.png"
+  #  pretitle: "Teams Room as a Service"
+  #  title: "Meeting Room Solutions"
+  #  text: "Supercharge your meeting rooms with Teams Rooms as a Service — all the gear, setup, and support you need, for one simple monthly fee. Walk in, power up, and collaborate without a hitch."

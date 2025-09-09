@@ -31,10 +31,10 @@ params:
   location:
     - "Dubai, UAE"
     - "Melbourne, Australia"
-    - "New York, USA" 
+  #  - "New York, USA" 
 
   contact:
-    - "info@bespokelink.ae"
+    - "team@bespokelink.ae"
     - "UAE +971 8000 321 342"
     - "AUS +613 9998 0490"
     - "USA +1 929 590 5907"
@@ -64,8 +64,8 @@ menus:
 #      weight: 5
 
   buttons:
-    - name: "Book a call"
-      url: "https://calendly.com/bespokelink/30min"
+    - name: "Start for free"
+      url: "https://forms.zohopublic.com/bespokelink1/form/TrialRequest/formperma/nRKlkfG2IjyRTpgMsiEgGMb75k4IFnD7eMLQQmhVf_U"
       weight: 5
       pre: "btn btn-primary text-light"
 

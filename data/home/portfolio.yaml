@@ -13,7 +13,7 @@ content:
 
   #    - label: "Read more"
   #      url: "#"
-  
+
   - image: "images/portfolio-cloud-pbx.png"
     pretitle: "Unified Communication as a Service"
     title: "Smart PBX"
@@ -27,7 +27,7 @@ content:
   #      url: "#"
 
   - image: "images/portfolio-microsoftteams.png"
-    pretitle: "Session Border Controller as a Service"
+    pretitle: "Voice Gateway as a Service"
     title: "Microsoft Teams Telephony"
     text: "Power your business calls with a high-performance cloud SIP server — seamlessly connecting Microsoft Teams to enterprise-grade phone services. Reliable, scalable, and built for the modern workplace."
 
@@ -38,10 +38,10 @@ content:
     #  - label: "Read more"
     #    url: "#"
 
-  - image: "images/portfolio-SIP-trunking.png"
-    pretitle: "SIP Trunking"
-    title: "Voice & DID"
-    text: "Get powerful, cost-effective SIP connections for your own devices — unlimited sessions, phone numbers, fax, voicemail, call recording, and more. All the features you need, built to scale with your business."
+  - image: "images/portfolio-meeting-booths.jpeg"
+    pretitle: "Work Booth as a Service"
+    title: "Meeting Pods"
+    text: "Step into focus — our modern work booths and meeting pods create private, soundproof spaces for calls, meetings, and deep work. Compact, stylish, and built for today’s hybrid workplace."
 
    # buttons: 
     #  - label: "See live"

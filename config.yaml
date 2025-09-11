@@ -2,14 +2,14 @@ baseURL: "https://bespokelink.ae"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Telephony Solutions"
+title: " Meeting Rooms & Telephony"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Cloud PBX | Microsoft Teams Telephony | Cloud Communication"
+  title: "Microsoft Teams Rooms | AI-powered PBX | Teams Phone"
   description: "Our mission is to optimize connections & untangle phone complexities!"
   images: 
     - "images/hero-image.png"

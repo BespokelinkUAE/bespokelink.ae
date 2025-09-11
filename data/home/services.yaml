@@ -2,27 +2,27 @@ enabled: true
 id: "services"
 
 content:
-  title: "Other services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "value add services"
+  text: "Bring your spaces to life with digital signage, wireless presentation, and bespoke AV solutions — smart tech that informs, connects, and inspires. Tailored experiences designed to elevate every meeting and message."
   cards:
-    - image: "images/service-Inbound-numbers.png"
-      title: "1300 / 1800 Numbers"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+    - image: "images/service-signage.png"
+      title: "AI Signage & Wayfinder"
+      text: "Navigate smarter with AI-powered signage and wayfinding — guiding people effortlessly while delivering dynamic, personalized content. Turn every screen into an intelligent experience. "
+     # button:
+     #   label: "Learn more"
+     #   url: "#"
 
-    - image: "images/service-NBN_Co.png"
-      title: "NBN & 4G Data"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+    - image: "images/service-wireless.jpg"
+      title: "Wireless Presentation"
+      text: "Ditch the cables and present with ease — wireless presentation lets you share ideas instantly from any device. Fast, simple, and built for seamless collaboration. "
+     # button:
+     #   label: "Learn more"
+     #   url: "#"
 
-    - image: "images/services-sms.png"
-      title: "SMS - P2P & A2P"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+    - image: "images/services-bespokeAV.png"
+      title: "Bespoke Audio Visual (AV)"
+      text: "Transform your space with tailor-made AV solutions — immersive sound, stunning visuals, and seamless integration. Designed to fit your brand, your vision, your way. "
+     # button:
+     #   label: "Learn more"
+     #   url: "#"
 

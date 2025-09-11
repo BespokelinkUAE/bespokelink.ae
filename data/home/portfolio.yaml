@@ -3,7 +3,7 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-medium-meeting.png"
-    pretitle: "Teams Room as a Service"
+    pretitle: "Microsoft Teams Room as a Service"
     title: "Meeting Room Solutions"
     text: "Supercharge your meeting rooms with Teams Rooms as a Service — all the gear, setup, and support you need, for one simple monthly fee. Walk in, power up, and collaborate without a hitch."
 
@@ -28,7 +28,7 @@ content:
 
   - image: "images/portfolio-microsoftteams.png"
     pretitle: "Voice Gateway as a Service"
-    title: "Microsoft Teams Telephony"
+    title: "Microsoft Teams Phone System"
     text: "Power your business calls with a high-performance cloud SIP server — seamlessly connecting Microsoft Teams to enterprise-grade phone services. Reliable, scalable, and built for the modern workplace."
 
    # buttons: 

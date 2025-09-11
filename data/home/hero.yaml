@@ -3,7 +3,7 @@ id: "hero"
 
 content:
   title: "Your **Communication Nexus**"
-  text: "Modernise your communication system to support hybrid working, increase productivity, and reduce operational costs."
+  text: "Modernise your communication & collaboration systems to support hybrid working, increase productivity, and reduce operational costs."
 
   buttonPrimary:
     label: "Book demo"

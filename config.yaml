@@ -4,7 +4,7 @@ languageCode: "en-us"
 
 title: " Meeting Rooms & Telephony"
 
-# googleAnalytics: ""
+googleAnalytics: "G-5539HT18TF"
 
 summaryLength: 20
 
@@ -35,9 +35,9 @@ params:
 
   contact:
     - "team@bespokelink.ae"
-    - "UAE +971 8000 321 342"
+    - "UAE +971 50 595 3127"
     - "AUS +613 9998 0490"
-    - "USA +1 929 590 5907"
+  #  - "USA +1 929 590 5907"
 
   copyright: "© 2025 Bespokelink Limited, LLC. All rights reserved."
 

@@ -2,15 +2,15 @@ baseURL: "https://bespokelink.ae"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: " Meeting Rooms & Telephony"
+title: " AI Voice & Automation"
 
 googleAnalytics: "G-5539HT18TF"
 
 summaryLength: 20
 
 params:
-  title: "Microsoft Teams Rooms | AI-powered PBX | Teams Phone"
-  description: "Our mission is to optimize connections & untangle phone complexities!"
+  title: " AI-powered Voice Agents & PBX"
+  description: "Our mission is to optimize workflows & untangle phone complexities!"
   images: 
     - "images/hero-image.png"
 

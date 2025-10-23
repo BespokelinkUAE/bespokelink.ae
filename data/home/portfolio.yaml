@@ -7,11 +7,14 @@ content:
     title: "AI-powered Voice Agent"
     text: "Empower your business with an AI Voice Agent that answers calls, books appointments, and manages tasks automatically — 24/7 with natural, human-like conversation."
 
-  #  buttons: 
-  #    - label: "See live"
-  #      url: "#"
+    buttons: 
+      - label: "Talk to Agent"
+        url: "tel:+19295905907"
 
-  #    - label: "Read more"
+      - label: "Pricing"
+        url: "#"
+
+  #    - label: "Sign Up"
   #      url: "#"
 
   - image: "images/portfolio-cloud-pbx.png"
@@ -20,10 +23,10 @@ content:
     text: "Smart PBX puts a powerful cloud phone system at your fingertips — simple, reliable, and built to cut costs while boosting productivity. The smarter way to connect and grow your business."
 
   #  buttons: 
-  #    - label: "See live"
+  #    - label: "Exprience AI Assistant"
   #      url: "#"
 
-  #    - label: "Read more"
+  #    - label: "Train AI Agent"
   #      url: "#"
 
   - image: "images/portfolio-microsoftteams.png"
@@ -54,3 +57,5 @@ content:
   #  pretitle: "Teams Room as a Service"
   #  title: "Meeting Room Solutions"
   #  text: "Supercharge your meeting rooms with Teams Rooms as a Service — all the gear, setup, and support you need, for one simple monthly fee. Walk in, power up, and collaborate without a hitch."
+
+  

@@ -64,8 +64,8 @@ menus:
 #      weight: 5
 
   buttons:
-    - name: "Start for free"
-      url: "https://forms.zohopublic.com/bespokelink1/form/TrialRequest/formperma/nRKlkfG2IjyRTpgMsiEgGMb75k4IFnD7eMLQQmhVf_U"
+    - name: "Book A Demo"
+      url: "https://calendly.com/bespokelink/30min"
       weight: 5
       pre: "btn btn-primary text-light"
 
